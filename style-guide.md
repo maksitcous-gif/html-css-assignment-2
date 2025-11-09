@@ -26,3 +26,13 @@ Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
 
 - Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders?query=big+shoulders+display)
 - Weights: 700
+text on card
+
+sedans
+choose a sedan for its affordability and excellent fuel economy. Ideal for Cruising in the cidy or on your next road trip.
+
+SUV
+Take on SUV for its spacious interior, power and versatility. perfect for your next family vacation and off.road adventures
+
+LUXURY
+Cruise in the best car brands wtihout the bloated prices. Enjoy the enhanced comfort of a luxury rental and arrive in style.
